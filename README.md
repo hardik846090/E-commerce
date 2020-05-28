@@ -1,2 +1,1 @@
-# E-commerce
-Any things buy by user
+A Django E commerce website
